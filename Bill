@@ -112,6 +112,7 @@ double finalAmount = total - discount;
     }
 
 }
+//--------
     }
 
 //
